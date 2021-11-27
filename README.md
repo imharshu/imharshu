@@ -1,17 +1,11 @@
-- 👋 Hi there, I'm Harsh Mishra
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Harsh!
 
-- 👀 I’m interested in 
-    • Web development
-    • Android
-    • UI&UX
-    • App Development
-- 🌱 I’m currently learning JAVA.
-
-- 📫 Reach me at : harshmishra1601@gmail.com
-
-- 📒 My LinkedIn profile : https://Linkedin.com/in/heyaharshu
-
-<!---
-imharshu/imharshu is a special repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.linkedin.com/in/heyaharshu/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/heyaharshu">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto: harshmishra1601@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
