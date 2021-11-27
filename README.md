@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm @imharshu
+- 👋 Hi there, I'm Harsh Mishra
 
 - 👀 I’m interested in 
     • Web development
